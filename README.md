@@ -1,7 +1,6 @@
 ### Prerequirements
 * docker (v20.10.17) [install](https://docs.docker.com/engine/install/)
 * enable kubernetes (v1.25.0) in docker preference
-* Test under macOS Monterey 12.6, CPU: 1.4GHz Interl Core i5 / RAM: 16GB 2133MHz LPDDR3
 
 ### pack spring boot & build image, then push image to docker hub  
 ```
